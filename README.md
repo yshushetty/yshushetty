@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**yshushetty/yshushetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Name: Madishetty Vyshnavi
+Role: Data Analyst | Frontend Developer
+Email: madishettyvyshnavi134@gmail.com
+🛠️ Technical Skills
+Programming & Data: Python, MySQL, Power BI
+Frontend: HTML, CSS, JavaScript, React, Bootstrap
+Tools & DevOps: Docker, Git, GitHub Actions
+🚀 Projects
+1. Calculator App
+Developed a responsive calculator using HTML, CSS, and JavaScript.
+Implemented interactive calculator functions using JavaScript.
+Used GitHub Actions for automated testing/CI.
+2. Portfolio Website
+Built a personal portfolio using HTML, CSS, and JavaScript.
+Designed a responsive interface to showcase skills and projects.
+🌱 Areas of Interest
+Data Analysis
+Frontend Development
+Web Development
+Python & SQL
+Data Visualization with Power BI
